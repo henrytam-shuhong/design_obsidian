@@ -1,5 +1,4 @@
 
-# Designing the information architecture of apps
 
 As a UX designer, the information that your design presents needs to be clearly organized and sorted, so users can successfully experience and interact with the app or website. This process of organizing information is called information architecture. Think of information architecture as a map for your product. 
 
